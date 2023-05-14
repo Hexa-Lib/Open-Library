@@ -4,4 +4,4 @@ The Library has a webpage hosted on Github Pages. The webpage is made to allow u
 
 Currently Managed by Students and Developers.
 
-The Books added are either Copyright Free or have been Licenced from appropriate vendors/Publishers.
+The Books, added to the website are either Copyright Free or have been Licenced from appropriate vendors/Publishers.
